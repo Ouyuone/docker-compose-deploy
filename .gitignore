@@ -1,0 +1,11 @@
+./mysql/data/*
+./mysql/logs/*
+
+./nacos/logs/*
+
+./xxl-job/data/*
+
+./redis/data/*
+
+./zookeeper/data/*
+./zookeeper/logs/*
